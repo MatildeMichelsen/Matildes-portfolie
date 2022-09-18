@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(150, 146, 210);
+}
+
+div {
+  background-color: rgb(250, 250, 250);
+}
+
+/* overskrift h1 design */
+h1{
+font-style: bold;
+font-size: 60px;
+}
+
+pre{
+  background-color: white;
+}
+
+
+.boxFloatRighe{
+float: right;
+background-color: rgb(200,100,100);
+width: 40%;
+height: 40%;
+overflow: hidden;
+font-size: 40;
+}
